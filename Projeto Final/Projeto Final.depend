@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1477944310 source:f:\download\faculdade\prog\projeto final\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1477933960 f:\download\faculdade\prog\projeto final\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1477935238 f:\download\faculdade\prog\projeto final\imagem.h
+
+1477944220 f:\download\faculdade\prog\projeto final\trabalho3.h
+	"imagem.h"
+
+1379514036 source:f:\download\faculdade\prog\projeto final\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1511323981 source:f:\download\faculdade\prog\projeto final\main.c
+	<stdio.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1511323634 source:f:\download\faculdade\prog\projeto final\prjfinal-1984136-1986872-1189212.c
+	"imagem.h"
+	"trabalho3.h"
+	"gerador_de_testes.h"
+
+1512926271 source:f:\download\faculdade\prog\projeto final\prjfinal.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+	"imagem.h"
+

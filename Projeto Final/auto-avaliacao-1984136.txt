@@ -1,0 +1,26 @@
+Aluno: Vinicius Schnaider Zolet
+RA: 1984136
+
+
+Requisitos não atendidos de maneira total: 
+-Contagem dos veículos e suas respectivas classificações.
+
+Requisitos atendidos de maneira parcial: 
+-Rotulação dos objetos da imagem.
+
+Horas investidas no trabalho: 
+
+Elaboração da primeira parte, que consistiu em fazer a filtragem, limiarização, escala de cinza e eliminação de fundo,
+foram 5 dias com uma média de 4-5 horas por noite, dando 20-25 horas em média.
+
+Elaboração da segunda parte, que consistiu em fazer a rotulação de componentes conexos, contagem e classificação dos veículos,
+foram 2 dias sendo 3-4 horas por dia e outros 4 dias com aproximadamente 10 horas por dia, dando uma média de 45-47 horas.
+
+Sendo um tempo total de 65-72 horas de trabalho, divididos em 11 dias. 
+
+---------------------------
+
+Auto-Avaliação:  Nota 7.  
+
+Motivo: A não realização ra rotulação de forma correta e a não finalização adequada do trabalho, sendo nota 6.
+Nota 7 caso a forma de fazer a contagem de carros e sua respectiva classificação estivesse correta, caso funcionasse o rótulo.

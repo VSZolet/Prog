@@ -1,0 +1,25 @@
+Aluno: Wilson Felipp dos Santos
+RA: 1986872
+
+
+Requisitos não atendidos de maneira total: 
+
+- Contagem e classificação dos veículos presentes na imagem 
+
+Requisitos atendidos de maneira parcial: 
+
+- Rotulação dos componentes conexos 
+
+Horas investidas no trabalho: 
+
+Elaboração da primeira parte (filtragem, limiarização, escala de cinza e eliminação de fundo): 5 dias com uma média de 4h por noite - Total: 20h em média 
+
+Elaboração da segunda parte (rotulação de componentes conexos, contagem e classificação dos veículos): 2 dias com uma média de 3h por dia + 4 dias com uma média de 10h por dia - Total: 45h em média
+
+Tempo total, em média:  65 horas de trabalho divididos em 11 dias. 
+
+
+Possível nota merecida: 6.00 + 1.00  
+
+Motivo: Incapacidade de elaborar a parte final do trabalho, apesar das diversas ideias testadas e discussões com os demais integrantes do grupo, ponto extra 
+pelas tentativas exaustivas de solucionar o problema, mesmo que não tiverem resultado em nada. 

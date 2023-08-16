@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1379514036 source:f:\download\faculdade\prog\preprojeto final\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1477935238 f:\download\faculdade\prog\preprojeto final\imagem.h
+
+1510758928 source:f:\download\faculdade\prog\preprojeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"imagem.h"
+
+1379514036 source:f:\download\faculdade\prog\preprojeto final\ppfinal\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1477935238 f:\download\faculdade\prog\preprojeto final\ppfinal\imagem.h
+
+1510764927 source:f:\download\faculdade\prog\preprojeto final\ppfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"imagem.h"
+

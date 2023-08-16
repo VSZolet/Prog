@@ -1,0 +1,36 @@
+﻿Pedro henrique Belotto Frankiewicz
+
+1189212
+
+
+
+Requisitos não atendidos de maneira total: 
+
+Contagem e classificação dos veículos presentes na imagem
+
+
+Requisitos atendidos de maneira parcial: 
+
+Rotulação dos componentes conexos
+
+
+
+Horas investidas no trabalho:
+
+
+
+Elaboração da primeira parte (diferenca entre a imagem com e sem os carros, filtragem, limiarização): 5 dias com uma média de 4h por noite - Total: 20h em média
+
+
+Elaboração da segunda parte (rotulação de componentes conexos): 2 dias com uma média de 3h por dia + 2 dias com uma média de 6h por dia - Total: 18h em média
+
+
+Tempo total, em média:  38 horas de trabalho divididos em 9 dias.
+
+
+
+
+Possível nota merecida: 5.00 
+
+
+Motivo: Incapacidade de executar a parte mais importante do trabalho, e pela demora para reconhecer a necessidade de alguma ajuda, mas o esforco foi importante para obtenção de conhecimento.
